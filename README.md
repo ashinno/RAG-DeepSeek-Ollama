@@ -16,6 +16,6 @@ A Retrieval-Augmented Generation (RAG) system for PDF document analysis using De
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/RAG-DeepSeek-Ollama-PDF.git
+git clone https://github.com/ashinno/RAG-DeepSeek-Ollama.git
 cd RAG-DeepSeek-Ollama
 pip install -r requirements.txt
